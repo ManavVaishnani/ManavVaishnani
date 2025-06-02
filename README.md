@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mbvaishnani15@gmail.com**
 
-- Checkout my other profile : <a href="https://github.com/Manav-ast"  target="blank"></a>
+- Checkout my other profile : **https://github.com/Manav-ast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
