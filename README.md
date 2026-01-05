@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavvaishnani&label=Profile%20views&color=0e75b6&style=flat" alt="manavvaishnani" /> </p>
 
-- 🔭 I’m currently working on **ChargeIt**
+- 🔭 I’m currently working on **DSA Visualizer**
 
-- 🌱 I’m currently learning **ReactJs**
-
-- 💬 Ask me about **HTML, CSS, JS, PHP, MYSQL**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **mbvaishnani15@gmail.com**
 
