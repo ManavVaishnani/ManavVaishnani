@@ -1,33 +1,24 @@
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/manav-vaishnani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/mbvaishnani15" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+<div align="start">
+  <a href="https://www.linkedin.com/in/manav-vaishnani/" target="_blank">LinkedIn</a> •
+  <a href="https://x.com/mbvaishnani15" target="_blank">Twitter/X</a> •
+  <a href="mailto:mbvaishnani15@gmail.com" target="_blank">Email</a>
 </div>
 
-###
-
-<h1 align="center">👋 hey there, I'm Manav </h1>
+<h1 align="start">👋 hey there, I'm Manav </h1>
 
 ###
 
-<h3 align="left">22 • Full-Stack Engineer</h3>
+<h3 align="start">22 • Full-Stack Engineer</h3>
+
+<p align="start">🔭 Currently working, learning, and creating products around AI, Node.js, React.js and TypeScript.</p>
 
 ###
 
-<p align="left">- 🔭 Currently working, learning, and creating products around AI, Node.js, React.js and TypeScript.<br>- 📫 How to reach me mbvaishnani15@gmail.com</p>
+<h3 align="start">🛠 Language and tools</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
+<div align="start">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
@@ -49,9 +40,7 @@
 
 ###
 
-# 📊 GitHub Stats:
+# 🚧 My GitHub in Numbers
 ![](https://github-readme-stats.vercel.app/api?username=ManavVaishnani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ManavVaishnani&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavVaishnani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-###
