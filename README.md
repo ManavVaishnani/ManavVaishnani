@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh6b3pzYXVxZ3IzazRobHJvdm52dG10emViNTFwNmFyZGNtazBpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif"  />
-</div>
-
 ###
 
 <div align="center">
@@ -15,15 +11,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋 hey there, I'm Manav </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">22 • Full-Stack Engineer</h3>
 
 ###
 
-<p align="left">- 🔭 I’m currently working on DSA Visualizer<br>- 📚 I'm currently learning AWS<br>- 📫 How to reach me mbvaishnani15@gmail.com</p>
+<p align="left">- 🔭 Currently working, learning, and creating products around AI, Node.js, React.js and TypeScript.<br>- 📫 How to reach me mbvaishnani15@gmail.com</p>
 
 ###
 
