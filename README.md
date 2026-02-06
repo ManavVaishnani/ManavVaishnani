@@ -12,11 +12,13 @@
 
 <p align="start">🔭 Currently working, learning, and creating products around AI, Node.js, React.js and TypeScript.</p>
 
-###
 
-<h3 align="start">🛠 Language and tools</h3>
+![](https://github-readme-stats.vercel.app/api?username=ManavVaishnani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ManavVaishnani&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavVaishnani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+<details>
+  <summary><h3 align="start">🛠 Language and tools</h3></summary>
 
 <div align="start">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
@@ -37,10 +39,4 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
 </div>
-
-###
-
-# 🚧 My GitHub in Numbers
-![](https://github-readme-stats.vercel.app/api?username=ManavVaishnani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ManavVaishnani&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavVaishnani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</details>
