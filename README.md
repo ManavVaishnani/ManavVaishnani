@@ -13,12 +13,12 @@
 <p align="start">🔭 Currently working, learning, and creating products around AI, Node.js, React.js and TypeScript.</p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=ManavVaishnani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ManavVaishnani&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavVaishnani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=manavvaishnani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=manavvaishnani&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manavvaishnani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<details>
-  <summary><h3 align="start">🛠 Language and tools</h3></summary>
+
+<h3 align="start">🛠 Language and tools</h3>
 
 <div align="start">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
@@ -38,5 +38,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github logo"  />
 </div>
-</details>
