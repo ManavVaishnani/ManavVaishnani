@@ -1,7 +1,8 @@
 <div align="start">
   <a href="https://www.linkedin.com/in/manav-vaishnani/" target="_blank">LinkedIn</a> •
   <a href="https://x.com/mbvaishnani15" target="_blank">Twitter/X</a> •
-  <a href="mailto:mbvaishnani15@gmail.com" target="_blank">Email</a>
+  <a href="mailto:mbvaishnani15@gmail.com" target="_blank">Email</a> •
+  <a href="https://manavvaishnani.vercel.app/" target="_blank">Portfolio</a>
 </div>
 
 <h1 align="start">👋 hey there, I'm Manav </h1>
