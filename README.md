@@ -11,7 +11,9 @@
 
 <h3 align="start">22 • Full-Stack Engineer</h3>
 
-<p align="start">🔭 Currently working, learning, and creating products around AI, Node.js, React.js and TypeScript.</p>
+<p align="start">I'm an AI engineer and full-stack developer who builds LLM applications, production RAG systems, and intelligent workflow automation.
+
+Currently building AlgoFlow.tech, a DSA learning by visualization platform, alongside context-aware RAG pipelines and intelligent automation.</p>
 
 
 ![](https://github-readme-stats.shion.dev/api?username=manavvaishnani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
