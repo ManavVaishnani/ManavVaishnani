@@ -16,10 +16,7 @@
 Currently building AlgoFlow.tech, a DSA learning by visualization platform, alongside context-aware RAG pipelines and intelligent automation.</p>
 
 
-![](https://github-readme-stats.shion.dev/api?username=manavvaishnani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=manavvaishnani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manavvaishnani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <h3 align="start">🛠 Language and tools</h3>
 
